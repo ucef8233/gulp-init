@@ -8,3 +8,4 @@
 #npm install gulp-concat --save-dev
 #npm install gulp-postcss --save-dev
 #npm install gulp-sourcemaps --save-dev
+#npm install --save-dev gulp-sourcemaps gulp-concat gulp-postcss autoprefixer gulp-cssnano
